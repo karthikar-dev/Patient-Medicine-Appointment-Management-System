@@ -1,0 +1,15 @@
+/Users/karthikar/Documents/Patient Medicine Appointment Management System/src/main/java/com/springboot/pms/PatientMedicineAndAppointmentSystemApplication.java
+/Users/karthikar/Documents/Patient Medicine Appointment Management System/src/main/java/com/springboot/pms/configuration/SecurityConfig.java
+/Users/karthikar/Documents/Patient Medicine Appointment Management System/src/main/java/com/springboot/pms/controller/DoctorController.java
+/Users/karthikar/Documents/Patient Medicine Appointment Management System/src/main/java/com/springboot/pms/controller/LoginController.java
+/Users/karthikar/Documents/Patient Medicine Appointment Management System/src/main/java/com/springboot/pms/controller/PatientController.java
+/Users/karthikar/Documents/Patient Medicine Appointment Management System/src/main/java/com/springboot/pms/model/Appointment.java
+/Users/karthikar/Documents/Patient Medicine Appointment Management System/src/main/java/com/springboot/pms/model/Doctor.java
+/Users/karthikar/Documents/Patient Medicine Appointment Management System/src/main/java/com/springboot/pms/model/Medical_History.java
+/Users/karthikar/Documents/Patient Medicine Appointment Management System/src/main/java/com/springboot/pms/model/Patient.java
+/Users/karthikar/Documents/Patient Medicine Appointment Management System/src/main/java/com/springboot/pms/model/Prescription.java
+/Users/karthikar/Documents/Patient Medicine Appointment Management System/src/main/java/com/springboot/pms/repository/AppointmentRepository.java
+/Users/karthikar/Documents/Patient Medicine Appointment Management System/src/main/java/com/springboot/pms/repository/DoctorRepository.java
+/Users/karthikar/Documents/Patient Medicine Appointment Management System/src/main/java/com/springboot/pms/repository/MedicalHistoryRepository.java
+/Users/karthikar/Documents/Patient Medicine Appointment Management System/src/main/java/com/springboot/pms/repository/PatientRepository.java
+/Users/karthikar/Documents/Patient Medicine Appointment Management System/src/main/java/com/springboot/pms/repository/PrescriptionRepository.java
